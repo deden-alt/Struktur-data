@@ -1,0 +1,2 @@
+# Struktur-data
+Struktur data
